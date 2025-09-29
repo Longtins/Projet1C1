@@ -1,0 +1,32 @@
+    h1 {
+        color: #766307;
+        border-bottom: 2px solid #000000;
+        font-size: 60px;
+    }
+    h2 {
+        color: #07592c;
+        font-size: 40px;
+    }
+    h3 {
+        color: #1c0202;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h4 {
+        color: #1c0202;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    p {
+        color: #1c0202;
+        line-height: 1.6;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        text-underline-offset: 5px;
+    }
+    a {
+        display: inline-block;
+        margin-top: 35px;
+        text-decoration: underline;
+        color: #460101;
+    }
